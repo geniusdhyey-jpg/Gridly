@@ -1,0 +1,4559 @@
+[
+  {
+    "id": "devpost-30992",
+    "sourceId": "30992",
+    "title": "Build, Ship, Shape: Amazon Developer Hackathon",
+    "organizer": "Amazon",
+    "type": "Hackathon",
+    "topic": "Machine Learning/AI",
+    "topics": [
+      "Machine Learning/AI",
+      "Open Ended",
+      "Productivity"
+    ],
+    "deadline": "2026-10-23",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 138000,
+    "benefit": "$138,000 in prizes",
+    "summary": "Build across Amazon Devices and shape what's next.",
+    "officialUrl": "https://amazonappdev2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": true,
+    "trending": true,
+    "registrations": 27412,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/173/047/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-29969",
+    "sourceId": "29969",
+    "title": "RevenueCat Shipaton 2026",
+    "organizer": "RevenueCat",
+    "type": "Hackathon",
+    "topic": "Design",
+    "topics": [
+      "Design",
+      "Gaming",
+      "Mobile"
+    ],
+    "deadline": "2026-10-01",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Ages 13 to 99 only",
+      "Specific countries/territories excluded"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 740000,
+    "benefit": "$740,000 in prizes",
+    "summary": "Ship apps and start making money.",
+    "officialUrl": "https://revenuecat-shipaton-2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": true,
+    "registrations": 28526,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/663/632/datas/medium_square.jpg"
+  },
+  {
+    "id": "devpost-30790",
+    "sourceId": "30790",
+    "title": "Nebius x NVIDIA Global AI Hackathon",
+    "organizer": "nebius",
+    "type": "Hackathon",
+    "topic": "Machine Learning/AI",
+    "topics": [
+      "Machine Learning/AI",
+      "Beginner Friendly",
+      "Robotic Process Automation"
+    ],
+    "deadline": "2026-10-30",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 50000,
+    "benefit": "$50,000 in prizes",
+    "summary": "Build the next frontier of AI on open infrastructure",
+    "officialUrl": "https://nebiusglobalaihackathon.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": true,
+    "registrations": 14963,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/173/025/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30984",
+    "sourceId": "30984",
+    "title": "OpenCV AI Competition 2026, powered by AWS",
+    "organizer": "OpenCV",
+    "type": "Competition",
+    "topic": "IoT",
+    "topics": [
+      "IoT",
+      "Machine Learning/AI",
+      "Serverless"
+    ],
+    "deadline": "2026-10-27",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 20250,
+    "benefit": "$20,250 in prizes",
+    "summary": "Build vision systems that see, reason, and act with OpenCV 5 and Amazon Web Services (AWS). Win money and bragging rights!",
+    "officialUrl": "https://opencv26.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": true,
+    "registrations": 3508,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/087/526/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30447",
+    "sourceId": "30447",
+    "title": "Build With AI: Basics",
+    "organizer": "Devpost",
+    "type": "Hackathon",
+    "topic": "Machine Learning/AI",
+    "topics": [
+      "Machine Learning/AI",
+      "Beginner Friendly",
+      "Education"
+    ],
+    "deadline": "2026-10-26",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Ages 18+ only",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 2500,
+    "benefit": "$2,500 in prizes",
+    "summary": "Learn AI best practices by creating a solid proof-of-concept for your dream project.",
+    "officialUrl": "https://learn-ai-basics.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": true,
+    "trending": true,
+    "registrations": 1648,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/366/318/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31024",
+    "sourceId": "31024",
+    "title": "Meta VR Start Developer Competition 2026",
+    "organizer": "Meta",
+    "type": "Competition",
+    "topic": "AR/VR",
+    "topics": [
+      "AR/VR",
+      "Machine Learning/AI",
+      "Web"
+    ],
+    "deadline": "2026-11-18",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Specific countries/territories excluded"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 1000000,
+    "benefit": "$1,000,000 in prizes",
+    "summary": "Accelerate your VR development journey with Meta VR Start and compete for $1M in cash prizes",
+    "officialUrl": "https://start-developer-competition-26.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": true,
+    "trending": true,
+    "registrations": 1467,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/374/843/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30408",
+    "sourceId": "30408",
+    "title": "Global Innovation Build Challenge V2",
+    "organizer": "Kang Chiao International School Student ",
+    "type": "Competition",
+    "topic": "Machine Learning/AI",
+    "topics": [
+      "Machine Learning/AI",
+      "Social Good",
+      "Beginner Friendly"
+    ],
+    "deadline": "2026-10-01",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Ages 13+ only",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "A global hackathon for foundational LLMs, applied AI, and open invention",
+    "officialUrl": "https://gibc-v2.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": true,
+    "registrations": 1651,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/835/213/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31052",
+    "sourceId": "31052",
+    "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
+    "organizer": "AWS",
+    "type": "Hackathon",
+    "topic": "Communication",
+    "topics": [
+      "Communication",
+      "Mobile",
+      "Machine Learning/AI"
+    ],
+    "deadline": "2026-10-28",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Professionals/Post grads only",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 40000,
+    "benefit": "$40,000 in prizes",
+    "summary": "Build the conversational experiences of tomorrow",
+    "officialUrl": "https://aws-cds-partner.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": true,
+    "beginnerFriendly": false,
+    "featured": true,
+    "trending": false,
+    "registrations": 563,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/155/384/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31481",
+    "sourceId": "31481",
+    "title": "Multimodal AI Hackathon 2026",
+    "organizer": "Kamand Prompt, IIT Mandi",
+    "type": "Hackathon",
+    "topic": "Machine Learning/AI",
+    "topics": [
+      "Machine Learning/AI"
+    ],
+    "deadline": "2026-10-14",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Ages 14+ only",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 100000,
+    "benefit": "$100,000 in prizes",
+    "summary": "Build beyond limits",
+    "officialUrl": "https://multimodal-ai-hackathon-2026-7.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": true,
+    "registrations": 1427,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/366/176/datas/medium_square.jpg"
+  },
+  {
+    "id": "devpost-30892",
+    "sourceId": "30892",
+    "title": "Beginner's Paradise - FirstCommit",
+    "organizer": "FirstCommit",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Mobile",
+      "Web"
+    ],
+    "deadline": "2026-10-02",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Ages 13 to 21 only",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 1024,
+    "benefit": "$1,024 in prizes",
+    "summary": "Your first project. Your first commit. Your future.",
+    "officialUrl": "https://firstcommit.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": true,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": true,
+    "registrations": 1351,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/152/414/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31103",
+    "sourceId": "31103",
+    "title": "WarriorHacks 2.0",
+    "organizer": "Westwood Computer Science Club",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Machine Learning/AI",
+      "Open Ended"
+    ],
+    "deadline": "2026-10-14",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Ages 13+ only",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Open to all skill levels! Build an app, website, game, or pitch an idea that fits the theme revealed before the submission phase opens.",
+    "officialUrl": "https://warriorhacks-2-0.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": true,
+    "registrations": 1249,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/267/082/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-29359",
+    "sourceId": "29359",
+    "title": "OneAquaHealth IEEE Global Hackathon",
+    "organizer": "OneAquaHealth",
+    "type": "Hackathon",
+    "topic": "Health",
+    "topics": [
+      "Health",
+      "Machine Learning/AI",
+      "Social Good"
+    ],
+    "deadline": "2026-10-05",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Students only",
+      "Team required",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 3500,
+    "benefit": "$3,500 in prizes",
+    "summary": "Healthy Waters Healthy Ecosystems.Healthy Communities",
+    "officialUrl": "https://oneaquahealth-ieee-hackathon.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": true,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": true,
+    "registrations": 1231,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/514/502/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31113",
+    "sourceId": "31113",
+    "title": "MLAI Hackathon 2026",
+    "organizer": "Mạng Lưới AI",
+    "type": "Hackathon",
+    "topic": "Databases",
+    "topics": [
+      "Databases",
+      "Machine Learning/AI"
+    ],
+    "deadline": "2026-10-16",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "Only specific countries/territories included"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "MLAI Hackathon là cuộc thi kết nối tài năng và công nghệ để phát triển những ý tưởng AI đột phá, giàu tính ứng dụng.",
+    "officialUrl": "https://mlai-hackathon.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 923,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/165/208/datas/medium_square.jpg"
+  },
+  {
+    "id": "devpost-29411",
+    "sourceId": "29411",
+    "title": "Galuxium Nexus V2",
+    "organizer": "Galuxium",
+    "type": "Hackathon",
+    "topic": "Enterprise",
+    "topics": [
+      "Enterprise",
+      "Machine Learning/AI",
+      "Productivity"
+    ],
+    "deadline": "2026-10-31",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 14644,
+    "benefit": "$14,644 in prizes",
+    "summary": "Build profitable SaaS platforms that real users will pay for. Launch the next generation of AI, creator and automation tools. [ OPEN TO ENGINEERS AND BUILDERS OF ALL AGES ]",
+    "officialUrl": "https://galuxium-nexus-v2-29411.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 854,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/684/795/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30781",
+    "sourceId": "30781",
+    "title": "UnivaBio ($40,000 in prizes) ",
+    "organizer": "BioCataalysis",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Health",
+      "Social Good"
+    ],
+    "deadline": "2026-10-13",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Ages 13+ only",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Biology needs builders. UnivaBio brings students worldwide together to build tools that make healthcare smarter, earlier, and more accessible.",
+    "officialUrl": "https://univabio.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": true,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 683,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/429/151/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31398",
+    "sourceId": "31398",
+    "title": "Databricks AI Social Impact (DAISI) Challenge - Singapore",
+    "organizer": "Databricks",
+    "type": "Competition",
+    "topic": "Education",
+    "topics": [
+      "Education",
+      "Machine Learning/AI",
+      "Social Good"
+    ],
+    "deadline": "2026-10-06",
+    "status": "active",
+    "format": "In-person",
+    "location": "Databricks Singapore",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "College students only",
+      "Companies/professional organizations excluded from participation",
+      "Only specific countries/territories included"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Student from Singapore's Institutes of Higher Learning (IHLs) take on real societal problems with national open data, built free on Databricks and mentored by Databricks engineers",
+    "officialUrl": "https://daisisg26.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 584,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/326/748/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31400",
+    "sourceId": "31400",
+    "title": "YouCam API Skin AI & eCommerce VTO Hackathon",
+    "organizer": "Perfect Corp",
+    "type": "Hackathon",
+    "topic": "AR/VR",
+    "topics": [
+      "AR/VR",
+      "E-commerce/Retail",
+      "Machine Learning/AI"
+    ],
+    "deadline": "2026-11-02",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Specific countries/territories excluded"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 6000,
+    "benefit": "$6,000 in prizes",
+    "summary": "Build with the YouCam API to Shape the Future of Skincare, Beauty, Fashion and eCommerce - Compete for Top Prizes",
+    "officialUrl": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 468,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/375/196/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31042",
+    "sourceId": "31042",
+    "title": "Next Founders Hackathon",
+    "organizer": "Student Organization",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Low/No Code",
+      "Open Ended"
+    ],
+    "deadline": "2026-10-15",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Ages 13 to 22 only",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 275,
+    "benefit": "$275 in prizes",
+    "summary": "Build. Pitch. Win Cash.",
+    "officialUrl": "https://next-founders.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 550,
+    "imageUrl": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif"
+  },
+  {
+    "id": "devpost-31196",
+    "sourceId": "31196",
+    "title": "ML Empowerment Build Challenge 3.0 - ($96,000 in prizes!)",
+    "organizer": "ML Empowerment Foundation",
+    "type": "Competition",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Machine Learning/AI",
+      "Social Good"
+    ],
+    "deadline": "2026-10-10",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Ages 13+ only",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Learn AI, build real-world projects, and create impact through guided resources, mentorship, and a global community of student innovators. @mlempowermentfoundation on Instagram.",
+    "officialUrl": "https://ml-build-challenge-3.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 486,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/267/891/datas/medium_square.jpg"
+  },
+  {
+    "id": "devpost-30740",
+    "sourceId": "30740",
+    "title": "Code for Humanity",
+    "organizer": "nill",
+    "type": "Hackathon",
+    "topic": "Education",
+    "topics": [
+      "Education",
+      "Machine Learning/AI",
+      "Web"
+    ],
+    "deadline": "2027-01-15",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Build technology that reaches the people who need it the most.",
+    "officialUrl": "https://code-for-humanity.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 472,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/909/585/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30632",
+    "sourceId": "30632",
+    "title": "CSC Back-to-School Hackathon",
+    "organizer": "The Webb Schools CSC",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Education",
+      "Social Good"
+    ],
+    "deadline": "2026-10-05",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Ages 13 to 18 only",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 400,
+    "benefit": "$400 in prizes",
+    "summary": "Build an app, tool, website, or gadget that helps students, teachers, or schools solve a real school-life problem",
+    "officialUrl": "https://csc-back-to-school.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": true,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 471,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/253/806/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30500",
+    "sourceId": "30500",
+    "title": "DSH Hacks V2 ($100k+ in prizes!)",
+    "organizer": "STEMise",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Low/No Code",
+      "Open Ended"
+    ],
+    "deadline": "2026-11-15",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Ages 13+ only",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Building meaningful technical products in AI and healthcare that solve real-world problems.",
+    "officialUrl": "https://dsh-hacks-v2.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": true,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 328,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/152/677/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31054",
+    "sourceId": "31054",
+    "title": "Qloo Agentic Hackathon",
+    "organizer": "Qloo",
+    "type": "Hackathon",
+    "topic": "Machine Learning/AI",
+    "topics": [
+      "Machine Learning/AI"
+    ],
+    "deadline": "2026-10-30",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 25000,
+    "benefit": "$25,000 in prizes",
+    "summary": "Agents, but with taste.",
+    "officialUrl": "https://qloo.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 64,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/363/782/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30764",
+    "sourceId": "30764",
+    "title": "Syntax Summit",
+    "organizer": "Student Organization",
+    "type": "Hackathon",
+    "topic": "DevOps",
+    "topics": [
+      "DevOps",
+      "Machine Learning/AI",
+      "Robotic Process Automation"
+    ],
+    "deadline": "2027-01-14",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Invent. Compile. Inspire.",
+    "officialUrl": "https://syntax-summit.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 274,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/929/208/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31324",
+    "sourceId": "31324",
+    "title": "LovHack Season 3",
+    "organizer": "Lovhack",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Machine Learning/AI",
+      "Open Ended"
+    ],
+    "deadline": "2026-10-04",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Ages 13 to 24 only",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "We're back for Season 3! It's time for your next build.",
+    "officialUrl": "https://lovhack-season-3.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": true,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 263,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/360/525/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31116",
+    "sourceId": "31116",
+    "title": "Next Gen Hackathon 2026 -Bengaluru",
+    "organizer": "RAAIF",
+    "type": "Hackathon",
+    "topic": "AR/VR",
+    "topics": [
+      "AR/VR",
+      "IoT",
+      "Machine Learning/AI"
+    ],
+    "deadline": "2026-10-23",
+    "status": "active",
+    "format": "In-person",
+    "location": "Tripura Vasini Palace Grounds, Bengaluru",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Team required: 2 to 4 members",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 50000,
+    "benefit": "$50,000 in prizes",
+    "summary": "NextGenExpo'26 brings together students,developers, engineers,innovators,and startups for a national-level series of technology challenges(registration from off web is neccessary)",
+    "officialUrl": "https://next-gen-hackathon.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 218,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/193/778/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30588",
+    "sourceId": "30588",
+    "title": "EurekaDev 2026",
+    "organizer": "Eureka Institute and UnivaDev",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Open Ended",
+      "Social Good"
+    ],
+    "deadline": "2026-10-20",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Ages 13 to 19 only",
+      "High school students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 19122,
+    "benefit": "$19,122 in prizes",
+    "summary": "A 5-week global innovation challenge blending science fairs and hackathons. Research or code your way to innovation across multiple STEM tracks! Code, research and win prizes!",
+    "officialUrl": "https://eurekadev.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": true,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 210,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/909/442/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31035",
+    "sourceId": "31035",
+    "title": "HACK47: OFFGRID",
+    "organizer": "Hack47",
+    "type": "Hackathon",
+    "topic": "Enterprise",
+    "topics": [
+      "Enterprise",
+      "Open Ended",
+      "Robotic Process Automation"
+    ],
+    "deadline": "2026-10-15",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "A month to do great work, surrounded by great builders.",
+    "officialUrl": "https://hack47-offgrid.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": true,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 165,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/109/822/datas/medium_square.jpeg"
+  },
+  {
+    "id": "devpost-31108",
+    "sourceId": "31108",
+    "title": "InnovArt 2027: Art and Technology Hack Day",
+    "organizer": "Binnovative",
+    "type": "Hackathon",
+    "topic": "Music/Art",
+    "topics": [
+      "Music/Art",
+      "Beginner Friendly",
+      "Open Ended"
+    ],
+    "deadline": "2027-01-02",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Ages 13+ only",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Hack your artistic intelligence! Demonstrate your talent and showcase your hack for the arts",
+    "officialUrl": "https://innovart2027.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": true,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 127,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/163/349/datas/medium_square.jpg"
+  },
+  {
+    "id": "devpost-30539",
+    "sourceId": "30539",
+    "title": "HTCJ × PROOF Aviation Futures Challenge",
+    "organizer": "hacktheconcretejungle ",
+    "type": "Competition",
+    "topic": "Enterprise",
+    "topics": [
+      "Enterprise",
+      "Machine Learning/AI",
+      "Social Good"
+    ],
+    "deadline": "2026-10-27",
+    "status": "active",
+    "format": "In-person",
+    "location": "Boston Venture Week",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Build the Future of Flight. Then Prove It.",
+    "officialUrl": "https://htcj-aviation-futures.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": true,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 88,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/314/895/datas/medium_square.jpg"
+  },
+  {
+    "id": "devpost-31484",
+    "sourceId": "31484",
+    "title": "2026-2027 Fall ESE Senior Design",
+    "organizer": "university of pennsylvania",
+    "type": "Hackathon",
+    "topic": "AR/VR",
+    "topics": [
+      "AR/VR",
+      "Fintech",
+      "Quantum"
+    ],
+    "deadline": "2026-12-07",
+    "status": "active",
+    "format": "In-person",
+    "location": "Amy Gutman Hall",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "College students only",
+      "Team required",
+      "US only"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Senior Design Projects in ESE",
+    "officialUrl": "https://ese4500f26.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 88,
+    "imageUrl": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif"
+  },
+  {
+    "id": "devpost-30761",
+    "sourceId": "30761",
+    "title": "Hack Away Hunger: Food Insecurity Challenge",
+    "organizer": "dsmhack",
+    "type": "Competition",
+    "topic": "Open Ended",
+    "topics": [
+      "Open Ended",
+      "Social Good"
+    ],
+    "deadline": "2026-10-08",
+    "status": "active",
+    "format": "In-person",
+    "location": "Corteva's Pioneer Shull Building",
+    "eligibility": [
+      "Ages 13+ only",
+      "US only"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 5000,
+    "benefit": "$5,000 in prizes",
+    "summary": "Presented by Corteva Agriscience, a dsmHack (Des Moines Charity Hackathon) focused on how technology can strengthen food access across the state of Iowa.",
+    "officialUrl": "https://hack-away-hunger.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": true,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 87,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/927/005/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31477",
+    "sourceId": "31477",
+    "title": "INDUX 5.0-2026",
+    "organizer": "vikrant university, gwalior",
+    "type": "Hackathon",
+    "topic": "Cybersecurity",
+    "topics": [
+      "Cybersecurity",
+      "Design",
+      "Robotic Process Automation"
+    ],
+    "deadline": "2026-10-15",
+    "status": "active",
+    "format": "In-person",
+    "location": "Vikrant University , Gwalior",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "College students only",
+      "Team required: 2 to 4 members",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 225000,
+    "benefit": "$225,000 in prizes",
+    "summary": "AI FOR REAL-WORLD IMPACT",
+    "officialUrl": "https://indux-5-0-2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 86,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/367/159/datas/medium_square.jpeg"
+  },
+  {
+    "id": "devpost-31301",
+    "sourceId": "31301",
+    "title": "Bharat Innovation Challenge 2.0",
+    "organizer": "Lovely Professional University",
+    "type": "Competition",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Communication",
+      "Education"
+    ],
+    "deadline": "2026-10-03",
+    "status": "active",
+    "format": "In-person",
+    "location": "Lovely Professional University",
+    "eligibility": [
+      "Ages 13 to 18 only",
+      "Students only",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 10600,
+    "benefit": "$10,600 in prizes",
+    "summary": "Where High School Students Become Tomorrow's Innovators.",
+    "officialUrl": "https://bic.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 70,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/288/676/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31453",
+    "sourceId": "31453",
+    "title": "Hackyard Build 2026 | 24-Hour Hackathon at IIT Guwahati",
+    "organizer": "Hackyard Technologies Pvt limited",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Open Ended",
+      "Low/No Code"
+    ],
+    "deadline": "2026-10-10",
+    "status": "active",
+    "format": "In-person",
+    "location": "IIT Guwahati",
+    "eligibility": [
+      "Ages 13+ only",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Build something real at IIT Guwahati, Oct 24-25. Free to enter; solo builders and teams welcome. Apply on Hackyard by Oct 10.",
+    "officialUrl": "https://hackyardbuild2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": true,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 70,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/343/722/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31311",
+    "sourceId": "31311",
+    "title": "Planet Resilience: Innovation for Sustainable Impact Hackathon",
+    "organizer": "Singapore University of Social Sciences",
+    "type": "Hackathon",
+    "topic": "Education",
+    "topics": [
+      "Education",
+      "Enterprise",
+      "Social Good"
+    ],
+    "deadline": "2026-10-01",
+    "status": "active",
+    "format": "In-person",
+    "location": "Singapore, Singapore",
+    "eligibility": [
+      "SUSS Current FT & PF Students",
+      "Above legal age of majority in country of residence",
+      "College students only",
+      "Only specific countries/territories included"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 1700,
+    "benefit": "$1,700 in prizes",
+    "summary": "A hands-on hackathon where students develop innovative solutions to real-world sustainability challenges.",
+    "officialUrl": "https://uob-suss-planet-resilience.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 64,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/293/800/datas/medium_square.jpg"
+  },
+  {
+    "id": "devpost-31096",
+    "sourceId": "31096",
+    "title": "Hyperbloom October- UI/UX and Web Design",
+    "organizer": "hyperbloom hacks",
+    "type": "Hackathon",
+    "topic": "Design",
+    "topics": [
+      "Design",
+      "Productivity",
+      "Web"
+    ],
+    "deadline": null,
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "-",
+    "officialUrl": "https://hyperbloom-october.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 37,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/371/968/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-28603",
+    "sourceId": "28603",
+    "title": "MCA 2026 projects",
+    "organizer": "Mizzou Computing Association",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly"
+    ],
+    "deadline": "2026-12-25",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Mizzou Computing Association members",
+      "Above legal age of majority in country of residence",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Submit your presentable projects here!",
+    "officialUrl": "https://mca-2026-projects.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 24,
+    "imageUrl": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif"
+  },
+  {
+    "id": "devpost-31528",
+    "sourceId": "31528",
+    "title": "FIK FAIR 2026",
+    "organizer": "UPN \"Veteran\" Jakarta",
+    "type": "Hackathon",
+    "topic": "Education",
+    "topics": [
+      "Education",
+      "Health",
+      "Social Good"
+    ],
+    "deadline": "2026-10-04",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Students only",
+      "Team required: 4 to 5 members",
+      "Companies/professional organizations excluded from participation",
+      "Only specific countries/territories included"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 360,
+    "benefit": "$360 in prizes",
+    "summary": "IGNITE (Inspiring Growth, Networking, Innovation, Technology, and Exploration)",
+    "officialUrl": "https://fik-fair-2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 18,
+    "imageUrl": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif"
+  },
+  {
+    "id": "devpost-31124",
+    "sourceId": "31124",
+    "title": "SVYCA Youth for Earth (Y4E) Hackathon",
+    "organizer": "Silicon Valley Youth Climate Action",
+    "type": "Hackathon",
+    "topic": "Social Good",
+    "topics": [
+      "Social Good"
+    ],
+    "deadline": "2026-10-18",
+    "status": "active",
+    "format": "In-person",
+    "location": "Stanford University",
+    "eligibility": [
+      "Ages 13 to 18 only",
+      "High school students only",
+      "US only"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 2700,
+    "benefit": "$2,700 in prizes",
+    "summary": "Develop creative, actionable solutions to environmental challenges!",
+    "officialUrl": "https://svycay4e.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": true,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 13,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/173/428/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31180",
+    "sourceId": "31180",
+    "title": "AI Lodge Hackathon 2026",
+    "organizer": "SMU Business Intelligence & Analytics",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly"
+    ],
+    "deadline": "2026-10-19",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "SMU BIA members",
+      "Above legal age of majority in country of residence",
+      "College students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Build out your best ideas with AI",
+    "officialUrl": "https://ai-lodge-hackathon-2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": true,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 7,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/362/031/datas/medium_square.jpg"
+  },
+  {
+    "id": "devpost-28278",
+    "sourceId": "28278",
+    "title": "UIUC Product Hackathon - Hack to the Future",
+    "organizer": "Product Space UIUC",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Design",
+      "Low/No Code"
+    ],
+    "deadline": "2026-10-03",
+    "status": "active",
+    "format": "In-person",
+    "location": "Campus Instructional Facility",
+    "eligibility": [
+      "UIUC Students Only",
+      "Above legal age of majority in country of residence",
+      "College students only",
+      "Team required",
+      "US only"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Dream It. Design It. Deliver It.",
+    "officialUrl": "https://product-hackathon-uiuc.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 5,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/394/061/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31262",
+    "sourceId": "31262",
+    "title": "CCT IT CLUB X INOVEXHQ HACK DAYS",
+    "organizer": "MLH",
+    "type": "Hackathon",
+    "topic": "Web",
+    "topics": [
+      "Web"
+    ],
+    "deadline": "2026-10-01",
+    "status": "active",
+    "format": "In-person",
+    "location": "Chitwan College of Technology",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Only specific countries/territories included"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Everything Problem , Smart Solutions",
+    "officialUrl": "https://cct-it-club-inovexhq-hack-days.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": true,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 3,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/269/213/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31548",
+    "sourceId": "31548",
+    "title": "AIC Internal Competition -2026 (Agentic AI) ",
+    "organizer": "AI Community @ SBU",
+    "type": "Competition",
+    "topic": "Machine Learning/AI",
+    "topics": [
+      "Machine Learning/AI",
+      "Open Ended"
+    ],
+    "deadline": "2026-10-12",
+    "status": "active",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Ages 17+ only",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Your Idea, Your Agent, Your Move",
+    "officialUrl": "https://aic-ic-2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 3,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/442/479/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31049",
+    "sourceId": "31049",
+    "title": "HackIT 2026",
+    "organizer": "NP Overflow",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Open Ended"
+    ],
+    "deadline": "2026-10-20",
+    "status": "active",
+    "format": "In-person",
+    "location": "Ngee Ann Polytechnic School of ICT",
+    "eligibility": [
+      "Polytechnic Students from Ngee Ann Polytechnic",
+      "Ages 16+ only",
+      "Students only",
+      "Only specific countries/territories included"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Think It. Hack It.",
+    "officialUrl": "https://hackit-2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 3,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/127/509/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30858",
+    "sourceId": "30858",
+    "title": "ForgeHacks Online 2026",
+    "organizer": "ForgeHacks",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Lifehacks",
+      "Machine Learning/AI"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 633655,
+    "benefit": "$633,655 in prizes",
+    "summary": "A student hackathon focused on Forging AI solutions that solves real-world challenges.",
+    "officialUrl": "https://forgehacks-2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 776,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/034/742/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30350",
+    "sourceId": "30350",
+    "title": "Hack Apertus",
+    "organizer": "aiLights Association",
+    "type": "Hackathon",
+    "topic": "Education",
+    "topics": [
+      "Education",
+      "Machine Learning/AI",
+      "Social Good"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "Grand Finals 2027 ",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 10680,
+    "benefit": "$10,680 in prizes",
+    "summary": "Welcome to the first stage of «Hack Apertus», an open-source hackathon series to evaluate, align, and build on Apertus, Switzerland’s sovereign LLM.",
+    "officialUrl": "https://hackapertus.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 566,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/992/867/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-29114",
+    "sourceId": "29114",
+    "title": "IEEE ClimateChain Global Hackathon",
+    "organizer": "IEEE Turkey",
+    "type": "Hackathon",
+    "topic": "Blockchain",
+    "topics": [
+      "Blockchain",
+      "Machine Learning/AI",
+      "Social Good"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "Specific countries/territories excluded"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 3000,
+    "benefit": "$3,000 in prizes",
+    "summary": "AI and BLOCKCHAIN Innovate Today for a Sustainable Tomorrow.",
+    "officialUrl": "https://ieee-climatechain-hack.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": true,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 451,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/642/899/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31503",
+    "sourceId": "31503",
+    "title": "Life After Code",
+    "organizer": "GitLab",
+    "type": "Hackathon",
+    "topic": "DevOps",
+    "topics": [
+      "DevOps",
+      "Machine Learning/AI",
+      "Productivity"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Specific countries/territories excluded"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 45000,
+    "benefit": "$45,000 in prizes",
+    "summary": "The path to production at the speed of imagination",
+    "officialUrl": "https://gitlab-transcend.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 154,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/376/754/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31514",
+    "sourceId": "31514",
+    "title": "StormHacks 2026",
+    "organizer": "SFU Surge",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "Simon Fraser University",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Students only",
+      "Only specific countries/territories included"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Enter SFU Burnaby Campus from October 3rd to 4th for StormHacks 2026, Western Canada's biggest hackathon, a place where innovators like you can turn their visions into reality.",
+    "officialUrl": "https://stormhacks2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 308,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/379/988/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31110",
+    "sourceId": "31110",
+    "title": "hackPHS 2026",
+    "organizer": "Princeton High School",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Open Ended",
+      "Web"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "Princeton High School",
+    "eligibility": [
+      "Ages 13 to 19 only",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 1000,
+    "benefit": "$1,000 in prizes",
+    "summary": "hackPHS 2026 is New Jersey's largest high school hackathon, hosted at Princeton High School in Princeton, NJ. Our theme this year is \"Into the Skies\" :)",
+    "officialUrl": "https://hackphs2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 262,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/164/980/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31239",
+    "sourceId": "31239",
+    "title": "ImpactHack 2026",
+    "organizer": "GIS Engineering Club",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Education",
+      "Social Good"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Build technology that solves real problems and creates meaningful impact in your school, community, or the world.",
+    "officialUrl": "https://impacthack26.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": true,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 204,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/256/087/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30789",
+    "sourceId": "30789",
+    "title": "Arbiter Hacks V1",
+    "organizer": "Arbiter ",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Machine Learning/AI",
+      "Open Ended"
+    ],
+    "deadline": "2026-12-21",
+    "status": "upcoming",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Ages 13+ only",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 3800,
+    "benefit": "$3,800 in prizes",
+    "summary": "Open innovation for all, submit projects that have potential impact and usability!",
+    "officialUrl": "https://arbiter-hacks-v1.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 179,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/995/823/datas/medium_square.jpg"
+  },
+  {
+    "id": "devpost-30819",
+    "sourceId": "30819",
+    "title": "United Hacks V8",
+    "organizer": "Hack United",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Design",
+      "Education"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Ages 13+ only",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 13700,
+    "benefit": "$13,700 in prizes",
+    "summary": "Showcase both your technical and presenting abilities and collaborate with like minded individuals to make and pitch a project during United Hacks V8.",
+    "officialUrl": "https://unitedhacksv8.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": true,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 175,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/021/146/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30463",
+    "sourceId": "30463",
+    "title": "DeveloperWeek 2027 Hackathon",
+    "organizer": "DevNetwork",
+    "type": "Hackathon",
+    "topic": "Enterprise",
+    "topics": [
+      "Enterprise",
+      "IoT",
+      "Machine Learning/AI"
+    ],
+    "deadline": "2027-02-11",
+    "status": "upcoming",
+    "format": "Online",
+    "location": "Santa Clara Convention Center + Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 5000,
+    "benefit": "$5,000 in prizes",
+    "summary": "Join the nation's largest challenge-driven in-person and online hackathon @ DeveloperWeek 2027!",
+    "officialUrl": "https://developerweek-2027-hackathon.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 170,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/828/557/datas/medium_square.jpg"
+  },
+  {
+    "id": "devpost-30491",
+    "sourceId": "30491",
+    "title": "Banana Hacks",
+    "organizer": "n/a",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Machine Learning/AI",
+      "Web"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Ages 14 to 24 only",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 500,
+    "benefit": "$500 in prizes",
+    "summary": "Build apps, games, and tools that solve real problems in a weekend around Image AI.",
+    "officialUrl": "https://banana-hacks-1111.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 162,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/792/691/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30340",
+    "sourceId": "30340",
+    "title": "HackTitan",
+    "organizer": "IWU",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Databases",
+      "DevOps"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 10000,
+    "benefit": "$10,000 in prizes",
+    "summary": "IWU Hackathon",
+    "officialUrl": "https://hacktitan.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 143,
+    "imageUrl": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif"
+  },
+  {
+    "id": "devpost-28259",
+    "sourceId": "28259",
+    "title": "United Hackathons V1",
+    "organizer": "United Hackathons",
+    "type": "Hackathon",
+    "topic": "Machine Learning/AI",
+    "topics": [
+      "Machine Learning/AI",
+      "Open Ended",
+      "Social Good"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Fill out this quick form (required) tinyurl.com/unitedhackathons, United Hackathons aims to: connect innovators to organizers, building a network of student-led hackathons",
+    "officialUrl": "https://devonomicsv1.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 121,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/067/065/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30731",
+    "sourceId": "30731",
+    "title": "LarpHacks",
+    "organizer": "larphacks",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Machine Learning/AI",
+      "Web"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "Toronto",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Only specific countries/territories included"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 21394,
+    "benefit": "$21,394 in prizes",
+    "summary": "The Larp Never Stops. Register here: https://luma.com/irn5abpa",
+    "officialUrl": "https://larphacks.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 111,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/982/889/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-27097",
+    "sourceId": "27097",
+    "title": "evensonarisnord",
+    "organizer": "HoustonHacks2026",
+    "type": "Hackathon",
+    "topic": "Communication",
+    "topics": [
+      "Communication",
+      "Databases"
+    ],
+    "deadline": "2026-12-31",
+    "status": "upcoming",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 150,
+    "benefit": "$150 in prizes",
+    "summary": "#ECOLANUM#ECOPAY#VIRTUALANUM#ECCLESIA",
+    "officialUrl": "https://evensonarisnord.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 108,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/858/918/datas/medium_square.jpeg"
+  },
+  {
+    "id": "devpost-30872",
+    "sourceId": "30872",
+    "title": "Zoftware Hireathon",
+    "organizer": "Enterprise Software Solutions",
+    "type": "Hackathon",
+    "topic": "Enterprise",
+    "topics": [
+      "Enterprise",
+      "Machine Learning/AI"
+    ],
+    "deadline": "2026-10-03",
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "Delhi",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Only specific countries/territories included"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 500,
+    "benefit": "$500 in prizes",
+    "summary": "Zoftware Hireathon: From Messy Data to Smart Recommendations. An 8-hour build sprint for top talent, powered by LLMs, judged on real product thinking",
+    "officialUrl": "https://zoftware-hireathon.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 104,
+    "imageUrl": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif"
+  },
+  {
+    "id": "devpost-30455",
+    "sourceId": "30455",
+    "title": "Cosmo Hacks",
+    "organizer": "Cosmo Hacks",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Open Ended",
+      "Education"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Ages 13+ only",
+      "Students only",
+      "Team required",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 142505,
+    "benefit": "$142,505 in prizes",
+    "summary": "A 4 day online weekend hackathon for high school and college/graduate students. Build an app or website and win real prizes!",
+    "officialUrl": "https://cosmohacks.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 104,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/321/162/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31139",
+    "sourceId": "31139",
+    "title": "Neighborhood Hacks",
+    "organizer": "Student Organization",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Social Good"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Ages 13 to 21 only",
+      "High school students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 45086,
+    "benefit": "$45,086 in prizes",
+    "summary": "Create a project that supports your local community",
+    "officialUrl": "https://neighborhood-hacks-2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": true,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 92,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/177/882/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-28629",
+    "sourceId": "28629",
+    "title": "Tech to Treasure Hackathon",
+    "organizer": "bin to better",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Education",
+      "Social Good"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "Tully Community Branch Library",
+    "eligibility": [
+      "Ages 13 to 19 only",
+      "Students only",
+      "US only"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 450,
+    "benefit": "$450 in prizes",
+    "summary": "Code for a greener future.",
+    "officialUrl": "https://techtotreasure.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 78,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/303/066/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30516",
+    "sourceId": "30516",
+    "title": "Since AI 2026",
+    "organizer": "Since AI ry",
+    "type": "Hackathon",
+    "topic": "Machine Learning/AI",
+    "topics": [
+      "Machine Learning/AI",
+      "Open Ended",
+      "Enterprise"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "Kupittaa Campus, Turku",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 50000,
+    "benefit": "$50,000 in prizes",
+    "summary": "Build real AI. Solve real challenges. Ship working prototypes.",
+    "officialUrl": "https://sinceai2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 75,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/815/575/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-29135",
+    "sourceId": "29135",
+    "title": "Brewing Codes 4.0",
+    "organizer": "HARD MODE",
+    "type": "Hackathon",
+    "topic": "Low/No Code",
+    "topics": [
+      "Low/No Code",
+      "Machine Learning/AI",
+      "Web"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "College students only",
+      "Team required: 2 to 4 members",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 100000,
+    "benefit": "$100,000 in prizes",
+    "summary": "\"Brewing Codes 4.0- Where Innovation Meets Code!\"",
+    "officialUrl": "https://brewing-codes-4-0.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 75,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/427/203/datas/medium_square.jpeg"
+  },
+  {
+    "id": "devpost-30548",
+    "sourceId": "30548",
+    "title": "HackFW: MADE Challenge",
+    "organizer": "Fort Worth DAO",
+    "type": "Competition",
+    "topic": "IoT",
+    "topics": [
+      "IoT",
+      "Machine Learning/AI",
+      "Robotic Process Automation"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "Fort Worth",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 1900,
+    "benefit": "$1,900 in prizes",
+    "summary": "The flagship hackathon of Fort Worth, Texas.",
+    "officialUrl": "https://hackfw.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 58,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/018/511/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30425",
+    "sourceId": "30425",
+    "title": "Stupid Ideas Hackathon (Ottawa F26)",
+    "organizer": "stupid ideas hackathon",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Open Ended",
+      "Social Good"
+    ],
+    "deadline": "2026-11-07",
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "Ottawa, Canada",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 917,
+    "benefit": "$917 in prizes",
+    "summary": "build something stupid!",
+    "officialUrl": "https://stupideas-ottawa-f26.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 56,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/771/912/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31207",
+    "sourceId": "31207",
+    "title": "HuskyHack 2026:Phase 1",
+    "organizer": "SoundCreditUnion and UW Tacoma",
+    "type": "Hackathon",
+    "topic": "Fintech",
+    "topics": [
+      "Fintech"
+    ],
+    "deadline": "2026-10-17",
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "Milgard Hall ",
+    "eligibility": [
+      "Ages 18+ only",
+      "College students only",
+      "US only"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 18000,
+    "benefit": "$18,000 in prizes",
+    "summary": "Turning Innovation into Trust",
+    "officialUrl": "https://huskyhack2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": true,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 51,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/283/020/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31061",
+    "sourceId": "31061",
+    "title": "Gator Hack V - AI Days 2026",
+    "organizer": "University of Florida",
+    "type": "Hackathon",
+    "topic": "Education",
+    "topics": [
+      "Education"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 3500,
+    "benefit": "$3,500 in prizes",
+    "summary": "Join the University of Florida's 5th AI Days hackathon!",
+    "officialUrl": "https://gatorhack2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 51,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/288/165/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-28200",
+    "sourceId": "28200",
+    "title": "Gator Quant Hacks",
+    "organizer": "University of Florida",
+    "type": "Hackathon",
+    "topic": "Fintech",
+    "topics": [
+      "Fintech",
+      "Machine Learning/AI"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "Gainesville, Florida",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "College students only",
+      "Team required",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Create the best trading strategy and compete against hundreds of other participants",
+    "officialUrl": "https://gqhacks.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 47,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/166/339/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31187",
+    "sourceId": "31187",
+    "title": "STEMergent Hacks 2026",
+    "organizer": "STEMergent",
+    "type": "Hackathon",
+    "topic": "Low/No Code",
+    "topics": [
+      "Low/No Code",
+      "Machine Learning/AI",
+      "Social Good"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Ages 13+ only",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "A student hackathon and ideathon to build creative tech solutions for real community problems.",
+    "officialUrl": "https://stemergent-hacks.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 41,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/273/593/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30611",
+    "sourceId": "30611",
+    "title": "RecT Solutions Hackathon: Beyond the CV 2026",
+    "organizer": "RecT Solutions",
+    "type": "Hackathon",
+    "topic": "Databases",
+    "topics": [
+      "Databases",
+      "DevOps",
+      "Machine Learning/AI"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "IDEA Spaces Saldanha",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Professionals/Post grads only",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 2000,
+    "benefit": "$2,000 in prizes",
+    "summary": "Skip the CV. Build the Future. Hire the Proof.",
+    "officialUrl": "https://rect-hackathon.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 39,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/857/455/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31427",
+    "sourceId": "31427",
+    "title": "Kurukshetra CTF",
+    "organizer": "pimpri chinchwad college of engineering",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Cybersecurity",
+      "Machine Learning/AI"
+    ],
+    "deadline": "2026-10-03",
+    "status": "upcoming",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Students only",
+      "Team required",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 20000,
+    "benefit": "$20,000 in prizes",
+    "summary": "Capture the Flag. Claim the Battlefield.",
+    "officialUrl": "https://kurukshetractf.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": true,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 38,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/337/258/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30323",
+    "sourceId": "30323",
+    "title": "AI Hackathon 2026 by LA Hacks",
+    "organizer": "LA Hacks",
+    "type": "Hackathon",
+    "topic": "Machine Learning/AI",
+    "topics": [
+      "Machine Learning/AI"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "James West Alumni Center",
+    "eligibility": [
+      "Visit ai.lahacks.com to learn more and apply!",
+      "Above legal age of majority in country of residence",
+      "College students only",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "AI Hackathon 2026 by LA Hacks - apply now at ai.lahacks.com!",
+    "officialUrl": "https://la-ai-hackathon-2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 36,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/732/163/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30296",
+    "sourceId": "30296",
+    "title": "BioHacks",
+    "organizer": "BioEng4Youth",
+    "type": "Hackathon",
+    "topic": "Health",
+    "topics": [
+      "Health",
+      "Machine Learning/AI",
+      "Open Ended"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "McMaster University - PGCLL",
+    "eligibility": [
+      "Ages 16+ only",
+      "Students only",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Love healthcare? Love building? BioHacks brings together students from all disciplines to create bold solutions in biomedical engineering, health, and technology.",
+    "officialUrl": "https://biohacksmcmaster.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 36,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/727/866/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31498",
+    "sourceId": "31498",
+    "title": "MLH Hacktoberfest Hack Day Teens Delhi X ElevenLabs",
+    "organizer": "MLH",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Low/No Code",
+      "Social Good"
+    ],
+    "deadline": "2026-10-17",
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "The Grandeur By Lavanya-Moti Nagar",
+    "eligibility": [
+      "Ages 13+ only",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Where Young Coders Build the Future.",
+    "officialUrl": "https://hacktoberfest-teens.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 34,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/373/643/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30613",
+    "sourceId": "30613",
+    "title": "Girls Hoo Hack 2026",
+    "organizer": "Girls Who Code UVA",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Open Ended",
+      "Social Good"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "University of Virginia - Rice Hall",
+    "eligibility": [
+      "Ages 18+ only",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Girls Hoo Hack is a gender-inclusive, women-centered hackathon that is focused on promoting innovation while celebrating diversity.",
+    "officialUrl": "https://girls-hoo-hack-2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 34,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/893/713/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30210",
+    "sourceId": "30210",
+    "title": "HackPSU Fall 2026",
+    "organizer": "HackPSU",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Education",
+      "Open Ended"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "ECoRE Building",
+    "eligibility": [
+      "College students whose applications are accepted",
+      "Ages 18+ only",
+      "College students only",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 3500,
+    "benefit": "$3,500 in prizes",
+    "summary": "Learn. Build. Share",
+    "officialUrl": "https://hackpsu-fall-2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 34,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/707/965/datas/medium_square.PNG"
+  },
+  {
+    "id": "devpost-30494",
+    "sourceId": "30494",
+    "title": "Dublin Hacx",
+    "organizer": "Emerald High School",
+    "type": "Hackathon",
+    "topic": "Open Ended",
+    "topics": [
+      "Open Ended",
+      "Beginner Friendly",
+      "Machine Learning/AI"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "SAP Office — San Ramon, CA",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "High school students only",
+      "US only"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 2250,
+    "benefit": "$2,250 in prizes",
+    "summary": "Dublin's first high school hackathon - 12 hours, 150+ students, 1 day to build something real.",
+    "officialUrl": "https://dublin-hacx.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 32,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/793/206/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30453",
+    "sourceId": "30453",
+    "title": "Case Closed",
+    "organizer": "GDG on Campus Sheridan College",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Communication",
+      "Low/No Code"
+    ],
+    "deadline": "2026-10-04",
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "Location TBA",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "College students only",
+      "Team required: 2 to 4 members",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "60 detectives. Three tracks. One case.",
+    "officialUrl": "https://caseclosed.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 30,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/837/558/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31064",
+    "sourceId": "31064",
+    "title": "Hacks for Humanity",
+    "organizer": "Project Humanities",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Education",
+      "Social Good"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "ASU Memorial Union , Ventana Ballroom",
+    "eligibility": [
+      "Ages 18+ only",
+      "US only"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 6300,
+    "benefit": "$6,300 in prizes",
+    "summary": "Hacking for the social good.",
+    "officialUrl": "https://hacks-for-humanity-2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": true,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 28,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/148/974/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31165",
+    "sourceId": "31165",
+    "title": "2026 AI for Good Hackathon",
+    "organizer": "Florida Data Science for Social Good",
+    "type": "Hackathon",
+    "topic": "Machine Learning/AI",
+    "topics": [
+      "Machine Learning/AI",
+      "Social Good",
+      "Music/Art"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "The Link",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "College students only",
+      "Team required: 2 to 3 members",
+      "US only"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "AI for Good is a 48-hour hackathon that brings together students, community members, and industry partners to empower students to build AI solutions for social good.",
+    "officialUrl": "https://2026ai4goodhackathon.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": true,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 27,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/185/970/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30689",
+    "sourceId": "30689",
+    "title": "BearHacks 2027",
+    "organizer": "BearHacks",
+    "type": "Hackathon",
+    "topic": "Machine Learning/AI",
+    "topics": [
+      "Machine Learning/AI",
+      "Mobile",
+      "Web"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "Sheridan College Hazel McCallion Campus",
+    "eligibility": [
+      "Ages 18+ only",
+      "College students only",
+      "Only specific countries/territories included"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 10000,
+    "benefit": "$10,000 in prizes",
+    "summary": "The return of Mississauga's biggest hackathon - bringing students from across Canada to build meaningful projects together!",
+    "officialUrl": "https://bearhacks2027.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 27,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/874/689/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-29915",
+    "sourceId": "29915",
+    "title": "Caribbean AI Summit Hackathon",
+    "organizer": "Puerto Rico AI Community",
+    "type": "Hackathon",
+    "topic": "Health",
+    "topics": [
+      "Health",
+      "Social Good"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "Puerto Rico Convention Center",
+    "eligibility": [
+      "Caribbean AI Summit attendees",
+      "Above legal age of majority in country of residence",
+      "Only specific countries/territories included"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 10000,
+    "benefit": "$10,000 in prizes",
+    "summary": "Hack real solutions for Puerto Rico",
+    "officialUrl": "https://caribbean-ai-summit-hackathon.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 26,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/384/797/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31172",
+    "sourceId": "31172",
+    "title": "Hack Like W@CC 2026",
+    "organizer": "Women at College of Computing @ GT",
+    "type": "Hackathon",
+    "topic": "Health",
+    "topics": [
+      "Health",
+      "Machine Learning/AI",
+      "Open Ended"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "Georgia Tech – Klaus Atrium, Klaus 1116",
+    "eligibility": [
+      "U.S. University students with invitation",
+      "Above legal age of majority in country of residence",
+      "US only"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Back to 2016",
+    "officialUrl": "https://hack-like-wacc-26.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": true,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 26,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/191/956/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31480",
+    "sourceId": "31480",
+    "title": "AI Agents for Founders Challenge — HETIC 2026",
+    "organizer": "HETIC",
+    "type": "Competition",
+    "topic": "Low/No Code",
+    "topics": [
+      "Low/No Code",
+      "Machine Learning/AI",
+      "Productivity"
+    ],
+    "deadline": "2026-12-18",
+    "status": "upcoming",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "College students only",
+      "Team required: 2 to 4 members",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 997,
+    "benefit": "$997 in prizes",
+    "summary": "Create AI agents that give founders back their most valuable asset: time to think.",
+    "officialUrl": "https://ai-agents-founders-hetic-26.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 26,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/366/043/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31279",
+    "sourceId": "31279",
+    "title": "Arm + ExecuTorch: Edge AI Challenge",
+    "organizer": "arm",
+    "type": "Competition",
+    "topic": "AR/VR",
+    "topics": [
+      "AR/VR",
+      "IoT",
+      "Machine Learning/AI"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "San Francisco State University",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Team required: 2 to 5 members",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Build intelligent experiences at the edge. Sponsored by Arm, Meta and SFSU",
+    "officialUrl": "https://arm-executorch.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 24,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/362/865/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30456",
+    "sourceId": "30456",
+    "title": "Bridge The Gap Hacks",
+    "organizer": "Bridge The Gap Hacks",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Machine Learning/AI",
+      "Social Good"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Ages 13 to 21 only",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Create apps and games based on you original ideas. Innovation shouldn’t depend on location.",
+    "officialUrl": "https://sq-hacks.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 24,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/826/556/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-29980",
+    "sourceId": "29980",
+    "title": "Vibe Code Animated Maps",
+    "organizer": "Mappi Studio",
+    "type": "Hackathon",
+    "topic": "Design",
+    "topics": [
+      "Design",
+      "Education",
+      "Web"
+    ],
+    "deadline": "2026-12-20",
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "South Plainfield Library",
+    "eligibility": [
+      "Invite only (limited space)",
+      "Above legal age of majority in country of residence",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Create beautiful motion graphics map using ai",
+    "officialUrl": "https://vibecode-animated-maps.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 24,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/646/118/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30836",
+    "sourceId": "30836",
+    "title": "Hack the Change 2026",
+    "organizer": "Code the Change YYC",
+    "type": "Hackathon",
+    "topic": "Education",
+    "topics": [
+      "Education",
+      "Social Good",
+      "Web"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "University of Calgary",
+    "eligibility": [
+      "Ages 13+ only",
+      "Team required: 2 to 5 members",
+      "Only specific countries/territories included"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 5000,
+    "benefit": "$5,000 in prizes",
+    "summary": "Hack the Change 2025 is a hybrid two-day for-charity hackathon with the mission of coding a better world together.",
+    "officialUrl": "https://hack-the-change-2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 22,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/029/578/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30492",
+    "sourceId": "30492",
+    "title": "Prompt2Product: MLH Hack Day @ AITR",
+    "organizer": "Acropolis Institute of Technology and RC",
+    "type": "Hackathon",
+    "topic": "DevOps",
+    "topics": [
+      "DevOps",
+      "Education"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "AITR Indore",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "College students only",
+      "Only specific countries/territories included"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Prompt2Product",
+    "officialUrl": "https://prompt2product.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 20,
+    "imageUrl": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif"
+  },
+  {
+    "id": "devpost-30915",
+    "sourceId": "30915",
+    "title": "PalmettoHacks",
+    "organizer": "Kappa Theta Pi South Carolina",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Enterprise",
+      "Machine Learning/AI"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "USC College of Engineering and Computing",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "College students only",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 2550,
+    "benefit": "$2,550 in prizes",
+    "summary": "PalmettoHacks is the University of South Carolina's first official Major League Hacking Event. Join us for 24 hours of hacking, and bring the energy! palmettohacks.com",
+    "officialUrl": "https://palmetto-hacks-2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 20,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/336/988/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30020",
+    "sourceId": "30020",
+    "title": "Knight Hacks IX",
+    "organizer": "Knight Hacks",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "UCF Engineering II (ENG2)",
+    "eligibility": [
+      "Ages 18+ only",
+      "College students only",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 11980,
+    "benefit": "$11,980 in prizes",
+    "summary": "Venture into the enchanted forest with Knight Hacks IX for 36 hours of hacking and innovation on October 9-11, 2026.",
+    "officialUrl": "https://knight-hacks-ix.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 20,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/295/213/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30699",
+    "sourceId": "30699",
+    "title": "CommuniHacks",
+    "organizer": "CommuniHacks",
+    "type": "Hackathon",
+    "topic": "Design",
+    "topics": [
+      "Design",
+      "Education",
+      "Social Good"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "Builders Club",
+    "eligibility": [
+      "Accepted Hackers",
+      "Ages 13+ only",
+      "Students only",
+      "Team required: 3 to 4 members",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 3200,
+    "benefit": "$3,200 in prizes",
+    "summary": "A 24-hour hackathon for solving community problems",
+    "officialUrl": "https://communihacks.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 20,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/877/381/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30071",
+    "sourceId": "30071",
+    "title": "HarborHack 2026 - Agent In The Loop",
+    "organizer": "Charlestonhacks",
+    "type": "Hackathon",
+    "topic": "Machine Learning/AI",
+    "topics": [
+      "Machine Learning/AI",
+      "Open Ended",
+      "Beginner Friendly"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "College of Charleston, Harbor Walk",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 1500,
+    "benefit": "$1,500 in prizes",
+    "summary": "Embrace the non-human.",
+    "officialUrl": "https://harborhack-2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 19,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/829/092/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31141",
+    "sourceId": "31141",
+    "title": "HackStorm 3.0: Sense, Think and Act",
+    "organizer": "HackStorm",
+    "type": "Hackathon",
+    "topic": "DevOps",
+    "topics": [
+      "DevOps",
+      "IoT",
+      "Robotic Process Automation"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "San Francisco, California, USA",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 5200,
+    "benefit": "$5,200 in prizes",
+    "summary": "PhysicalAI, Robotics, AIoT",
+    "officialUrl": "https://hackstorm3.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 19,
+    "imageUrl": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif"
+  },
+  {
+    "id": "devpost-28667",
+    "sourceId": "28667",
+    "title": "Hacklanta",
+    "organizer": "progsu",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Machine Learning/AI",
+      "Open Ended"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "Student Center East Ballroom GSU",
+    "eligibility": [
+      "Ages 18+ only",
+      "College students only",
+      "US only"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 20000,
+    "benefit": "$20,000 in prizes",
+    "summary": "Go all in on your next build.",
+    "officialUrl": "https://hacklanta.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 17,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/077/016/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31146",
+    "sourceId": "31146",
+    "title": "Sheridan Datathon 2026",
+    "organizer": "GDG on Campus Sheridan College",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Databases",
+      "Machine Learning/AI"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "Sheridan College Hazel McCallion Campus",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 10000,
+    "benefit": "$10,000 in prizes",
+    "summary": "Mississauga's largest data-focused hackathon where 250+ students spend 24 hours turning real sponsor datasets into insights, models, and stories.",
+    "officialUrl": "https://sheridandatathon2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 17,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/371/173/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-28304",
+    "sourceId": "28304",
+    "title": "Hoya Hacks 2027",
+    "organizer": "Hoya Hacks",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Open Ended",
+      "Social Good"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "Healey Family Student Center",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Students only",
+      "Team required: 2 to 5 members",
+      "Only specific countries/territories included"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Hoya Hacks is the official Georgetown University Hackathon",
+    "officialUrl": "https://hoya-hacks-2027.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 17,
+    "imageUrl": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif"
+  },
+  {
+    "id": "devpost-29927",
+    "sourceId": "29927",
+    "title": "GoatHacks 2027",
+    "organizer": "WPI ACM",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Low/No Code",
+      "IoT"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "WPI - Campus Center",
+    "eligibility": [
+      "Ages 16+ only",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "WPI's biggest hackathon of the year. Come and build something new!",
+    "officialUrl": "https://goathacks-2027.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 16,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/634/565/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31458",
+    "sourceId": "31458",
+    "title": "Financial Cybersecurity Challenge 2026",
+    "organizer": "EconExplorers",
+    "type": "Competition",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Cybersecurity",
+      "Fintech"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Ages 14 to 17 only",
+      "High school students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Code the future. Secure every transaction. Build solutions at the intersection of finance and cybersecurity, preventing fraud, protecting data, and making money safer for everyone.",
+    "officialUrl": "https://finance-cybersecurity2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 15,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/356/410/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30833",
+    "sourceId": "30833",
+    "title": "Hyphen-Hacks",
+    "organizer": "Lick-Wilmerding High School",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Education",
+      "Open Ended"
+    ],
+    "deadline": "2026-10-10",
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "Lick-Wilmerding High School",
+    "eligibility": [
+      "Ages 13 to 19 only",
+      "High school students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Hyphen-Hacks is LWHS's annual hackathon for high school students, where participants collaborate to build impressive software and hardware solutions to important problems",
+    "officialUrl": "https://hyphen-hacks26.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 15,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/027/494/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30163",
+    "sourceId": "30163",
+    "title": "H.A.R.D. Hack 2027",
+    "organizer": "HKN (Eta Kappa Nu)",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Education",
+      "Health"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "University of California - Jacobs Hall",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "College students only",
+      "Team required: 2 to 4 members",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 300,
+    "benefit": "$300 in prizes",
+    "summary": "UC San Diego's Hardware Hackathon!",
+    "officialUrl": "https://h-a-r-d-hack-2027.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 15,
+    "imageUrl": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif"
+  },
+  {
+    "id": "devpost-31393",
+    "sourceId": "31393",
+    "title": "Daytona HackSprint w/ Arize AI - NYC, October 2026",
+    "organizer": "daytona",
+    "type": "Hackathon",
+    "topic": "Machine Learning/AI",
+    "topics": [
+      "Machine Learning/AI"
+    ],
+    "deadline": "2026-10-16",
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "AWS, JFK27",
+    "eligibility": [
+      "Ages 15+ only",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 7000,
+    "benefit": "$7,000 in prizes",
+    "summary": "​The Daytona HackSprints aren’t just another hackathon. They’re designed to be seamless, elevated, and unforgettable, a space where creativity meets execution.",
+    "officialUrl": "https://daytona-hacksprint-nyc.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 14,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/384/999/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31489",
+    "sourceId": "31489",
+    "title": "EthnoHACK",
+    "organizer": "ETHCSTWIN",
+    "type": "Hackathon",
+    "topic": "Databases",
+    "topics": [
+      "Databases",
+      "Health",
+      "Machine Learning/AI"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Data Hackathon on Ethnopharmacology and Health",
+    "officialUrl": "https://ethnohack2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 14,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/370/953/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31087",
+    "sourceId": "31087",
+    "title": "804 Hacks",
+    "organizer": "UW Blockchain Society",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Design",
+      "Web"
+    ],
+    "deadline": "2026-10-18",
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "Randolph-Macon College - Birdsong Hall",
+    "eligibility": [
+      "Ages 13 to 18 only",
+      "Students only",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 400,
+    "benefit": "$400 in prizes",
+    "summary": "Build an impactful project that aligns with our theme: The Environment",
+    "officialUrl": "https://804hacks.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 13,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/150/128/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31222",
+    "sourceId": "31222",
+    "title": "checkpoint 1 — games for good",
+    "organizer": "Checkpoint",
+    "type": "Hackathon",
+    "topic": "Gaming",
+    "topics": [
+      "Gaming",
+      "Machine Learning/AI",
+      "Social Good"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "Online",
+    "location": "Online",
+    "eligibility": [
+      "Ages 13 to 18 only",
+      "Students only",
+      "Companies/professional organizations excluded from participation",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 1400,
+    "benefit": "$1,400 in prizes",
+    "summary": "A free 48-hour AI-native online hackathon where builders aged 13–18 make games that do good in the world.",
+    "officialUrl": "https://checkpoint-1.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 13,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/239/296/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-28217",
+    "sourceId": "28217",
+    "title": "HackRPI 2026",
+    "organizer": "HackRPI",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "Darrin Communications Center",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Students only",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 3550,
+    "benefit": "$3,550 in prizes",
+    "summary": "HackRPI 2026: In the Clouds",
+    "officialUrl": "https://hackrpi-2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": true,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 12,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/186/807/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31517",
+    "sourceId": "31517",
+    "title": "Latinos x AI Hackathon - NYC",
+    "organizer": "la familia",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Fintech",
+      "Health"
+    ],
+    "deadline": "2026-10-10",
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "New York City / TBD",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "Team required",
+      "US only"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 1500,
+    "benefit": "$1,500 in prizes",
+    "summary": "100 Latino builders. One Saturday. Three problems our communities live with. La más clara. Dice exactamente qué es sin adornos.",
+    "officialUrl": "https://latinos-x-ai-hackathon-nyc.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 11,
+    "imageUrl": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif"
+  },
+  {
+    "id": "devpost-29579",
+    "sourceId": "29579",
+    "title": "WWU Social Justice Hackathon",
+    "organizer": "Western Washington University",
+    "type": "Hackathon",
+    "topic": "Social Good",
+    "topics": [
+      "Social Good"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "WWU - Kaiser Borsari Building",
+    "eligibility": [
+      "College students and recent alumni",
+      "Above legal age of majority in country of residence",
+      "Team required: 3 to 7 members",
+      "US only"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Develop tech-forward solutions to assist non-profits to make Bellingham a better place.",
+    "officialUrl": "https://wwu-sj-hack.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 11,
+    "imageUrl": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif"
+  },
+  {
+    "id": "devpost-30948",
+    "sourceId": "30948",
+    "title": "OCCHacks",
+    "organizer": "Iota Xi at Orange Coast College",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Education",
+      "Productivity"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "OCC Ballroom - 3rd Floor Conference Room",
+    "eligibility": [
+      "Ages 18+ only",
+      "College students only",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 2000,
+    "benefit": "$2,000 in prizes",
+    "summary": "OCC's Third Hackathon — 30 Hours, One Project",
+    "officialUrl": "https://occhacks-2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": true,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 10,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/114/525/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30357",
+    "sourceId": "30357",
+    "title": "HackCamp 2026",
+    "organizer": "nwPlus",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Machine Learning/AI",
+      "Social Good"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "Vancouver, Canada",
+    "eligibility": [
+      "Ages 13+ only",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Canada's largest beginner-friendly hackathon",
+    "officialUrl": "https://hackcamp-2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 10,
+    "imageUrl": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif"
+  },
+  {
+    "id": "devpost-30633",
+    "sourceId": "30633",
+    "title": "Hack-a-ton with Friends",
+    "organizer": "naitsa",
+    "type": "Hackathon",
+    "topic": "Education",
+    "topics": [
+      "Education",
+      "Beginner Friendly"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "DOW Theatre",
+    "eligibility": [
+      "Invitees who have purchased a $0 Eventbrite ticket",
+      "Ages 18+ only",
+      "College students only",
+      "Team required: 3 to 5 members",
+      "Only specific countries/territories included"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "A beginner-friendly, 24-hour hackathon for Edmonton post-secondary students who have never been to a hackathon before. No experience required.",
+    "officialUrl": "https://hack-a-ton-with-friends.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 10,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/191/931/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-29847",
+    "sourceId": "29847",
+    "title": "Cutie Hack 2026",
+    "organizer": "ACM at UCR",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Open Ended",
+      "Social Good"
+    ],
+    "deadline": "2026-11-21",
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "UC Riverside - Winston Chung Hall",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "College students only",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": null,
+    "benefit": "Prizes and recognition; see the official page",
+    "summary": "Dream to Wonderland | ACM at UCR's 12 Hour, Beginner-Friendly Hackathon at UC Riverside",
+    "officialUrl": "https://cutie-hack-2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 10,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/915/817/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-31275",
+    "sourceId": "31275",
+    "title": "Rutgers Health Hack 2026",
+    "organizer": "Robert Wood Johnson Medical School",
+    "type": "Hackathon",
+    "topic": "Health",
+    "topics": [
+      "Health"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "NJ HELIX Tower 1",
+    "eligibility": [
+      "Above legal age of majority in country of residence",
+      "US only"
+    ],
+    "eligibilityGroups": [
+      "Builders"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 10000,
+    "benefit": "$10,000 in prizes",
+    "summary": "Premier Northeast Healthcare Hackathon",
+    "officialUrl": "https://rutgers-health-hack-2026.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": false,
+    "featured": false,
+    "trending": false,
+    "registrations": 9,
+    "imageUrl": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/273/924/datas/medium_square.png"
+  },
+  {
+    "id": "devpost-30876",
+    "sourceId": "30876",
+    "title": "Central Hacks",
+    "organizer": "Central Michigan University",
+    "type": "Hackathon",
+    "topic": "Beginner Friendly",
+    "topics": [
+      "Beginner Friendly",
+      "Open Ended"
+    ],
+    "deadline": null,
+    "status": "upcoming",
+    "format": "In-person",
+    "location": "Central Michigan University Pearce Hall",
+    "eligibility": [
+      "Central Michigan University students only",
+      "Above legal age of majority in country of residence",
+      "College students only",
+      "All countries/territories, excluding standard exceptions"
+    ],
+    "eligibilityGroups": [
+      "Beginner-friendly"
+    ],
+    "cost": "Check official rules",
+    "prizeAmount": 1200,
+    "benefit": "$1,200 in prizes",
+    "summary": "In The Shadows",
+    "officialUrl": "https://central-hacks.devpost.com/",
+    "sourceName": "Official Devpost challenge page",
+    "verifiedAt": "2026-09-30",
+    "teamAllowed": true,
+    "soloAllowed": null,
+    "beginnerFriendly": true,
+    "featured": false,
+    "trending": false,
+    "registrations": 9,
+    "imageUrl": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif"
+  }
+]
